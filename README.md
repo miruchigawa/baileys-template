@@ -9,7 +9,7 @@ basics. [Here's](https://nodejs.org/en/docs/) a link for document to learn NodeJ
 If you have questions, please give a question to. [Here's](https://chat.whatsapp.com/LuqVaZWIqhpAJPnSkgOEOV)
 ## Disclaimer
 This is a basic template alone requires the addition of the code in it to work normally.
-This template uses a MIT license which means you can use, edit, update the author at will. [See here.](LICENSE.md)
+This template uses a MIT license which means you can use, edit, update the author at will. [See here.](LICENSE)
 
 ## How to start
 
